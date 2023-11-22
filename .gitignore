@@ -1,2 +1,4 @@
 # do not upload my credential to git
 spotify_credentials.json
+.ipynb_checkpoints
+.ipnyb_checkpoints/*
