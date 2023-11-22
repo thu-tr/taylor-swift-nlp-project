@@ -2,3 +2,4 @@
 spotify_credentials.json
 .ipynb_checkpoints
 .ipnyb_checkpoints/*
+.cache
